@@ -10,6 +10,7 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 - 📫 How to reach me: amna.a.ibrahim22@gmail.com
 - ⚡ Fun fact: When I'm not coding you'll find me trying new recipes or learning new languages :grinning: 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amina-eltahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amina eltahir" height="30" width="40" /></a>
@@ -25,7 +26,7 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-A&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amna-a&show_icons=true&locale=en" alt="amna-a" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amna-a&" alt="amna-a" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=amna-a&show_icons=true&locale=en" alt="amna-a" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amna-a&" alt="amna-a" />
 
 
 
