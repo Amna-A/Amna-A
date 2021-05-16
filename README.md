@@ -19,8 +19,8 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 <a href="https://www.hackerrank.com/amna_a_ibrahim22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amna_a_ibrahim22" height="30" width="40" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-A&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=amna-a&show_icons=true&locale=en" alt="amna-a" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amna-a&" alt="amna-a" />
 
 
 
