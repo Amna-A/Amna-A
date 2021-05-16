@@ -30,7 +30,5 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
   <div class="column">
     <img src="https://github-readme-stats.vercel.app/api?username=amna-a&show_icons=true&locale=en" alt="amna-a">
   </div>
-  <div class="column">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amna-a&" alt="amna-a">
-  </div>
+ 
 </div>
