@@ -25,15 +25,9 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 
 
 <details>
-  <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Language Stats</summary>
-  <div>
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b077a5aa3d0fb73fe0735e9ffbc9a75200b08ad0eb90592b29da55a463efcf39/68747470733a2f2f6769746875622d726561646d652d73746174732d6465706c6f792d6d6f656c617365632e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f456c61536563266c616e67735f636f756e743d3130266c61796f75743d636f6d7061637426686964655f626f726465723d74727565"><img alt="Amna-A's GitHub Stats" src="https://camo.githubusercontent.com/b077a5aa3d0fb73fe0735e9ffbc9a75200b08ad0eb90592b29da55a463efcf39/68747470733a2f2f6769746875622d726561646d652d73746174732d6465706c6f792d6d6f656c617365632e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f456c61536563266c616e67735f636f756e743d3130266c61796f75743d636f6d7061637426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats-deploy-Amna-A.vercel.app/api/top-langs/?username=Amna-A&amp;langs_count=10&amp;layout=compact&amp;hide_border=true" style="max-width:100%;"></a>
-  </div>
-</details>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-A&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<details>
+  
 <div class="row">
   <div class="column">
     <img src="https://github-readme-stats.vercel.app/api?username=amna-a&show_icons=true&locale=en" alt="amna-a">
