@@ -22,8 +22,7 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-A&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=amna-a&show_icons=true&locale=en" alt="amna-a" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amna-a&" alt="amna-a" />
-
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amna-a&" alt="amna-a" />
 
 
 <div class="row">
