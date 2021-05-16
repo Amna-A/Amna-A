@@ -27,9 +27,10 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 <!-- Most used langs stats -->
 <details>
   <summary>:zap: Lang Stats</summary>
- <div>
-    <img alt="Amna's GitHub Stats" src="https://github-readme-stats-deploy-amna-a.vercel.app/api/top-langs/?username=Amna-A&langs_count=10&layout=compact&hide_border=true" />
-  </div></details>
+  <div>
+    <img alt="Amina's GitHub Stats" src="https://github-readme-stats-deploy-amna-a.vercel.app/api/top-langs/?username=Amna-A&langs_count=10&layout=compact&hide_border=true" />
+  </div>
+</details>
 
 
 <!-- GitHub stats -->
