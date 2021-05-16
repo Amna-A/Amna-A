@@ -27,7 +27,7 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 <!-- Most used langs stats -->
 <details>
   <summary>:zap: Lang Stats</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amna-a)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-A&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
