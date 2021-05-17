@@ -6,6 +6,7 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 - 🔭 I’m currently working on a Face Mask Detection & Recognition System
 - 🌱 I’m currently learning Computer Vision / JavaScript / Node.js
 - 👯 I’m looking to collaborate on more open source this year
+- :blush: Check one of the recent Rust Crates I have contributed in [Search-Trees](https://crates.io/crates/search_trees)
 - 💬 Ask me about Python / Rust / Genetic Algorithms / Metaheuristic Optimization
 - 📫 How to reach me: amna.a.ibrahim22@gmail.com
 - ⚡ Fun fact: When I'm not coding you'll find me trying new recipes or learning new languages :grinning: 
