@@ -9,7 +9,7 @@ My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 - :blush: Check one of the recent Rust Crates I have contributed in [Search-Trees](https://crates.io/crates/search_trees)
 - 💬 Ask me about Python / Rust / Genetic Algorithms / Metaheuristic Optimization / Multi-Agent Pathfinding
 - 📫 How to reach me: amna.a.ibrahim22@gmail.com
-- ⚡ Fun fact: When I'm not coding you'll find me trying new recipes or learning new languages :grinning: 
+- ⚡ Fun fact: When I'm not coding you'll find me trying new recipes or learning new languages :grinning: (I'm currently working on my Spanish skills)
 
 
 <h3 align="left">Connect with me:</h3>
