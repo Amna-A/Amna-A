@@ -3,7 +3,7 @@
 My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
 
 
-- 🔭 I’m currently working on a Face Mask Detection & Recognition System
+- 🔭 I’m currently working on a Face Mask Detection & Recognition System/ literature review on Multi-Agent Pathfinding
 - 🌱 I’m currently learning Computer Vision / JavaScript / Node.js
 - 👯 I’m looking to collaborate on more open source this year
 - :blush: Check one of the recent Rust Crates I have contributed in [Search-Trees](https://crates.io/crates/search_trees)
