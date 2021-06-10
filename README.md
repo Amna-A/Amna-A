@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Amina, I'm a Software Engineer bassed in Canada :relaxed:
+My name is Amina, I'm a Software Engineer bassed in Canada. :relaxed:
 
 
 - 🔭 I’m currently working on a Face Mask Detection & Recognition System/ literature review on Multi-Agent Pathfinding.
