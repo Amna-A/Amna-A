@@ -10,7 +10,7 @@ My name is Amina, I'm a Software Engineer bassed in Canada. :relaxed:
 - 🌱 I’m currently learning React.js, Next.js, Node.js
 - 👯 I’m looking to collaborate on more open source this year
 - :blush: Check one of the recent Rust Crates I have contributed in [Search-Trees](https://crates.io/crates/search_trees)
-- 💬 Ask me about Python | Rust | Genetic Algorithms | Metaheuristic Optimization | Multi-Agent Pathfinding
+- 💬 Ask me about Metaheuristic Optimization | MAPF
 - 📫 How to reach me: amna.a.ibrahim22@gmail.com
 - ⚡ Fun fact: When I'm not coding you'll find me trying new recipes or learning new languages :grinning: (I'm currently working on my Spanish skills)
 
