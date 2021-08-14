@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="Developer Amina" src="https://media1.giphy.com/media/tMdyKBra7ntdqSbOV8/giphy.gif?cid=ecf05e47mgzfvck2voqc9xcbpydqfg5x62p1x24m1e8nux8g&rid=giphy.gif&ct=s" width="320" height="320" />
+<img align="right" alt="Developer Amina" src="https://media1.giphy.com/media/tMdyKBra7ntdqSbOV8/giphy.gif?cid=ecf05e47mgzfvck2voqc9xcbpydqfg5x62p1x24m1e8nux8g&rid=giphy.gif&ct=s" width="350" height="320" />
 
 
 My name is Amina, I'm a Software Engineer bassed in Canada. :relaxed:
